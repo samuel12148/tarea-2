@@ -48,6 +48,8 @@ La computación heterogénea comenzó a desarrollarse a inicios de los años 200
 La computación de borde (edge computing) es un modelo que acerca el procesamiento de datos al lugar donde estos se generan, es decir, en dispositivos locales o servidores cercanos, en lugar de depender exclusivamente de la nube. Su arquitectura está diseñada para reducir la latencia, optimizar el uso del ancho de banda y ofrecer respuestas rápidas en aplicaciones que requieren inmediatez, como el Internet de las Cosas (IoT), vehículos autónomos y sistemas de monitoreo en tiempo real. [9]
 ## Historia, ventajas y desventajas de esta computación.
 La computación de borde surgió como respuesta a las limitaciones de la nube en la década de 2010, cuando el crecimiento del IoT y el tráfico de datos hizo evidente la necesidad de procesar información localmente. [10] Entre sus ventajas se encuentran la baja latencia, mayor seguridad al mantener datos sensibles en el borde y la eficiencia en el uso de la red. Sus principales desventajas son la complejidad de implementación, los costos iniciales de infraestructura y la necesidad de mantener dispositivos distribuidos, lo que puede dificultar la administración y el escalado. [11]
+![Computación de borde](https://github.com/samuel12148/tarea-2/blob/main/image.png)
+Imagen tomada de: https://www.datacentermarket.es/dcm-xl/que-es-el-edge-computing-importancia-y-relacion-con-otras-tecnologias/
 ## Referencias
 [1]  IBM. (s.f.). ¿Qué es la computación cuántica? IBM Topics. Recuperado de IBM: https://www.ibm.com/es-es/topics/quantum-computing
 [2]  Amazon Web Services (AWS). (s.f.). ¿Qué es la computación cuántica? AWS. Recuperado de AWS: https://aws.amazon.com/es/what-is/quantum-computing/
