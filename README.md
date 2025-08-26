@@ -28,6 +28,9 @@ Una de las principales desventajas de las computadoras cuánticas es que los qub
 
 **Compuertas cuánticas:** operaciones matemáticas unitarias que manipulan qubits, constituyendo los bloques fundamentales para la construcción de algoritmos cuánticos.  
 
+![Computación cuántica](https://github.com/samuel12148/tarea-2/blob/main/imagen3.jpg)
+
+Imagen tomada de: https://codideep.com/blogpost/computacion-cuantica-en-el-presente-y-futuro
 ## 2. Investigar qué es un computador neuromórfico
 Es un enfoque de la computación que imita la forma en que funciona el cerebro humano. Implica diseñar hardware y software que simulen las estructuras y funciones neuronales y sinápticas del cerebro para procesar información. [4]
 ## Arquitectura de un computador neuromórfico, ¿cómo funciona?, ventajas y desventajas.
@@ -36,29 +39,53 @@ La arquitectura de un computador neuromórfico se inspira en el cerebro humano, 
 El hardware neuromórfico combina dispositivos electrónicos diseñados para emular neuronas y sinapsis. Se utilizan chips especializados como Loihi (Intel) o TrueNorth (IBM), basados en transistores CMOS y memorias no volátiles como memristores, RRAM o PCM, que permiten almacenar y procesar datos en el mismo lugar, similar a las sinapsis biológicas. Además, se emplean aceleradores neuromórficos, FPGA y sistemas híbridos que integran sensores con procesamiento embebido, lo que facilita el manejo eficiente de grandes flujos de datos en tiempo real. [4]
 ## ¿Cuáles son los tipos de computación neuromórfica que existen?
 Existen principalmente tres enfoques en la computación neuromórfica. El primero es el basado en hardware digital, que utiliza transistores convencionales para simular redes neuronales, ofreciendo estabilidad y escalabilidad. El segundo es el basado en hardware analógico, que emplea dispositivos como memristores para replicar el comportamiento eléctrico de las sinapsis, logrando mayor eficiencia energética. Finalmente, se encuentra el enfoque híbrido, que combina lo digital y lo analógico para equilibrar precisión, velocidad y consumo, siendo actualmente una de las líneas de investigación más prometedoras. [4]
+
+![Computación neuromórfica](https://github.com/samuel12148/tarea-2/blob/main/imagen4.png)
+
+Imagen tomada de: https://blogthinkbig.com/computacion-neuromorfica
 ## 3. Investigar qué es un ordenador biológico 
 Es un tipo de computadora cuyo funcionamiento está basado en células neuronales humanas cultivadas en laboratorio, capaces de adaptarse al entorno, formar conexiones de manera autónoma y permanecer vivas hasta por seis meses. Este tipo de computador es capaz de procesar información mediante neuronas reales cultivadas a partir de células madre humanas. Su diseño promete ser más dinámico, sostenible y eficiente en el consumo de energía, en comparación con los chips de silicio empleados actualmente en modelos de inteligencia artificial (IA) de última generación. [5]
 ## Arquitectura de los ordenadores biológicos, qué tipos existen y cuáles han sido sus principales hitos.
 Uno de estos ordenadores en específico se describe como formado por 16 organoides que son como “minicerebros”, organizados en cuatro grupos, que están conectados a ocho electrodos cada uno y a un sistema de microfluidos que proporciona nutrientes vitales para mantener los tejidos neuronales activos y funcionales durante 100 días. [6]
+
+![computación biológica](https://github.com/samuel12148/tarea-2/blob/main/imagen2.png)
+
+Imagen tomada de: https://es.wired.com/articulos/la-primera-computadora-biologica-que-funciona-con-neuronas-humanas-ya-es-una-realidad-y-se-llama-cl1
 ## 4. ¿Qué es una arquitectura de computación heterogénea?
 La arquitectura de computación heterogénea es un modelo en el que se combinan diferentes tipos de procesadores dentro de un mismo sistema, como CPU, GPU, FPGA o aceleradores especializados, para ejecutar tareas según sus fortalezas. Su objetivo es optimizar el rendimiento y la eficiencia energética, asignando cada tipo de cálculo al procesador más adecuado. Esto permite aprovechar la paralelización masiva de las GPU, la flexibilidad de las CPU y la eficiencia de los aceleradores, logrando un procesamiento más balanceado y eficaz en aplicaciones complejas. [7]
 ## Historia, ventajas y desventajas de esta computación.
 La computación heterogénea comenzó a desarrollarse a inicios de los años 2000 con el uso de GPU para acelerar gráficos y cálculos científicos, evolucionando hacia arquitecturas mixtas soportadas por entornos como CUDA (NVIDIA) y OpenCL. Entre sus ventajas se encuentran el aumento significativo del rendimiento, el ahorro energético y la capacidad de resolver problemas complejos en menor tiempo. Sin embargo, sus desventajas incluyen la dificultad de programación, la necesidad de software especializado y la complejidad en la gestión de recursos entre distintos procesadores. [8]
+
+![Computación heterogenea](https://github.com/samuel12148/tarea-2/blob/main/imagen5.jpg)
+
+Imagen tomada de: https://phoenixnap.mx/glosario/computaci%C3%B3n-heterog%C3%A9nea
 ## 5. ¿Qué es una arquitectura de computación de borde?
 La computación de borde (edge computing) es un modelo que acerca el procesamiento de datos al lugar donde estos se generan, es decir, en dispositivos locales o servidores cercanos, en lugar de depender exclusivamente de la nube. Su arquitectura está diseñada para reducir la latencia, optimizar el uso del ancho de banda y ofrecer respuestas rápidas en aplicaciones que requieren inmediatez, como el Internet de las Cosas (IoT), vehículos autónomos y sistemas de monitoreo en tiempo real. [9]
 ## Historia, ventajas y desventajas de esta computación.
 La computación de borde surgió como respuesta a las limitaciones de la nube en la década de 2010, cuando el crecimiento del IoT y el tráfico de datos hizo evidente la necesidad de procesar información localmente. [10] Entre sus ventajas se encuentran la baja latencia, mayor seguridad al mantener datos sensibles en el borde y la eficiencia en el uso de la red. Sus principales desventajas son la complejidad de implementación, los costos iniciales de infraestructura y la necesidad de mantener dispositivos distribuidos, lo que puede dificultar la administración y el escalado. [11]
+
 ![Computación de borde](https://github.com/samuel12148/tarea-2/blob/main/image.png)
+
 Imagen tomada de: https://www.datacentermarket.es/dcm-xl/que-es-el-edge-computing-importancia-y-relacion-con-otras-tecnologias/
 ## Referencias
 [1]  IBM. (s.f.). ¿Qué es la computación cuántica? IBM Topics. Recuperado de IBM: https://www.ibm.com/es-es/topics/quantum-computing
+
 [2]  Amazon Web Services (AWS). (s.f.). ¿Qué es la computación cuántica? AWS. Recuperado de AWS: https://aws.amazon.com/es/what-is/quantum-computing/
+
 [3] Caballar, R. D., & Stryker, C. (2024, 27 de junio). ¿Qué es la computación neuromórfica? IBM Think. Recuperado de IBM México: https://www.ibm.com/mx-es/think/topics/neuromorphic-computing
+
 [4] HP. (2024, 17 de octubre). ¿Qué es la computación neuromórfica y sus implicaciones para la IA? HP Tech Takes. Recuperado de HP México: https://www.hp.com/mx-es/shop/tech-takes/computacion-neuromorfica-ia-implicaciones
+
 [5] González, F. (2025, 5 de marzo). La primera computadora biológica comercial, que funciona con neuronas humanas, ya es una realidad y se llama CL1. WIRED en Español. Recuperado de WIRED: https://es.wired.com/articulos/la-primera-computadora-biologica-que-funciona-con-neuronas-humanas-ya-es-una-realidad-y-se-llama-cl1
+
 [6] Jerez, A. C. (2024, 15 de junio). Un ordenador biológico de 16 minicerebros humanos, «el primer procesador viviente del mundo». ABC Tecnología. Recuperado de ABC: http://www.abc.es/tecnologia/ordenador-biologico-minicerebros-humanos-primer-procesador-viviente-20240615100000-nt.html
+
 [7] Wikipedia. (s. f.). Computación heterogénea. Recuperado de Wikipedia en español
+
 [8] ARM. (s. f.). What is heterogeneous compute? Recuperado de ARM glossary: https://www.arm.com/glossary/heterogeneous-compute?
+
 [9] Synopsys. (2022, octubre 16). What Is Edge Computing Architecture? – Applications & .... Recuperado de Synopsys blog: https://www.synopsys.com/blogs/chip-design/edge-computing-architecture.html?utm_
+
 [10] Kiodatacenters. (2021). Advantages and disadvantages of Edge Computing. Recuperado de Kiodatacenters blog
+
 [11] GeeksforGeeks. (2025, julio 15). Advantage and Disadvantage of Edge Computing. Recuperado de GeeksforGeeks
